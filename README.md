@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://shield-guard-ac.vercel.app/hub/img/shield-guard-family.gif" alt="FiveShield: AC, Web, Bot" width="720">
+<img src="https://shield-guard-ac.vercel.app/hub/img/shield-guard-family.gif" alt="WaveGuard: AC, Web, Bot" width="720">
 
-# FiveShield
+# WaveGuard
 
 **אבטחה חינמית ופשוטה לקהילות FiveM ולדיסקורד · Simple, free security for FiveM and Discord communities**
 
 [![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/YjHkkwr5dD)
-[![Web](https://img.shields.io/badge/FiveShield%20Web-open-d4a63a)](https://shield-guard-ac.vercel.app/hub/)
-[![AC](https://img.shields.io/badge/FiveShield%20AC-site-2f7bff)](https://shield-guard-ac.vercel.app)
-[![Bot](https://img.shields.io/badge/FiveShield%20Bot-site-6c7bff)](https://security-bot-site.vercel.app)
+[![Web](https://img.shields.io/badge/WaveGuard%20Web-open-d4a63a)](https://shield-guard-ac.vercel.app/hub/)
+[![AC](https://img.shields.io/badge/WaveGuard%20AC-site-2f7bff)](https://shield-guard-ac.vercel.app)
+[![Bot](https://img.shields.io/badge/WaveGuard%20Bot-site-6c7bff)](https://security-bot-site.vercel.app)
 
 </div>
 
@@ -17,15 +17,15 @@
 
 ## עברית
 
-FiveShield הוא אקוסיסטם של שלושה פרויקטים שנבנו על ידי **Aharon the gamer** (ישראל), שעובדים יחד כדי להגן על שרתים, קהילות ומשתמשים.
+WaveGuard הוא אקוסיסטם של שלושה פרויקטים שנבנו על ידי **Aharon the gamer** (ישראל), שעובדים יחד כדי להגן על שרתים, קהילות ומשתמשים.
 
 | פרויקט | מה זה | קישור |
 |---|---|---|
-| **FiveShield AC** | אנטי-צ'יט לשרתי FiveM, עם פאנל ניהול חי, הגדרות מרחוק, באנים לפי חומרה, לוג זיהויים בזמן אמת ובחירת שפה במשחק | [shield-guard-ac.vercel.app](https://shield-guard-ac.vercel.app) |
-| **FiveShield Bot** | בוט אבטחה לדיסקורד: אנטי-ניוק, אנטי-ריידים, שער כניסה, הסגר, אוטומוד, אימות, וולקם ומודרציה | [security-bot-site.vercel.app](https://security-bot-site.vercel.app) |
-| **FiveShield Web** | כלי אבטחה חינמיים, בלי הרשמה, ישר בדפדפן | [shield-guard-ac.vercel.app/hub](https://shield-guard-ac.vercel.app/hub/) |
+| **WaveGuard AC** | אנטי-צ'יט לשרתי FiveM, עם פאנל ניהול חי, הגדרות מרחוק, באנים לפי חומרה, לוג זיהויים בזמן אמת ובחירת שפה במשחק | [shield-guard-ac.vercel.app](https://shield-guard-ac.vercel.app) |
+| **WaveGuard Bot** | בוט אבטחה לדיסקורד: אנטי-ניוק, אנטי-ריידים, שער כניסה, הסגר, אוטומוד, אימות, וולקם ומודרציה | [security-bot-site.vercel.app](https://security-bot-site.vercel.app) |
+| **WaveGuard Web** | כלי אבטחה חינמיים, בלי הרשמה, ישר בדפדפן | [shield-guard-ac.vercel.app/hub](https://shield-guard-ac.vercel.app/hub/) |
 
-### מה יש ב-FiveShield Web
+### מה יש ב-WaveGuard Web
 
 - **סורק קבצים:** בדיקה של תוכנות, ארכיונים, מסמכים וסקריפטים עד 16MB.
 - **בדיקת קישור והודעת הונאה:** לאן קישור באמת מוביל, וסימנים של הונאה בטקסט.
@@ -43,15 +43,15 @@ FiveShield הוא אקוסיסטם של שלושה פרויקטים שנבנו �
 
 ## English
 
-FiveShield is an ecosystem of three projects built by **Aharon the gamer** (Israel), working together to protect servers, communities and users.
+WaveGuard is an ecosystem of three projects built by **Aharon the gamer** (Israel), working together to protect servers, communities and users.
 
 | Project | What it is | Link |
 |---|---|---|
-| **FiveShield AC** | A FiveM anti-cheat with a live admin panel, remote settings, hardware-based bans, a real-time detection log and a selectable in-game language | [shield-guard-ac.vercel.app](https://shield-guard-ac.vercel.app) |
-| **FiveShield Bot** | A Discord security bot: anti-nuke, anti-raid, entry gate, quarantine, automod, verification, welcome messages and moderation | [security-bot-site.vercel.app](https://security-bot-site.vercel.app) |
-| **FiveShield Web** | Free security tools, no sign-up, right in the browser | [shield-guard-ac.vercel.app/hub](https://shield-guard-ac.vercel.app/hub/) |
+| **WaveGuard AC** | A FiveM anti-cheat with a live admin panel, remote settings, hardware-based bans, a real-time detection log and a selectable in-game language | [shield-guard-ac.vercel.app](https://shield-guard-ac.vercel.app) |
+| **WaveGuard Bot** | A Discord security bot: anti-nuke, anti-raid, entry gate, quarantine, automod, verification, welcome messages and moderation | [security-bot-site.vercel.app](https://security-bot-site.vercel.app) |
+| **WaveGuard Web** | Free security tools, no sign-up, right in the browser | [shield-guard-ac.vercel.app/hub](https://shield-guard-ac.vercel.app/hub/) |
 
-### What is in FiveShield Web
+### What is in WaveGuard Web
 
 - **File scanner:** programs, archives, documents and scripts up to 16MB.
 - **Link and scam-message check:** where a link really leads, and scam signs in text.
@@ -69,9 +69,9 @@ FiveShield is an ecosystem of three projects built by **Aharon the gamer** (Isra
 
 ## קישורים / Links
 
-- FiveShield AC: https://shield-guard-ac.vercel.app
-- FiveShield Web: https://shield-guard-ac.vercel.app/hub/
-- FiveShield Bot: https://security-bot-site.vercel.app
+- WaveGuard AC: https://shield-guard-ac.vercel.app
+- WaveGuard Web: https://shield-guard-ac.vercel.app/hub/
+- WaveGuard Bot: https://security-bot-site.vercel.app
 - Terms / תנאי שימוש: https://shield-guard-ac.vercel.app/hub/terms/
 - Privacy / פרטיות: https://shield-guard-ac.vercel.app/hub/privacy/
 - Discord: https://discord.gg/YjHkkwr5dD
